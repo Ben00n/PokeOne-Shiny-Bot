@@ -13,3 +13,5 @@ How to use?
 3) Toggle both of the scripts.
 
 When a shiny is found the bot stops and plays music.
+
+#You need to download AHK if you don't have it in order to run it as the scripts are NOT compiled.
