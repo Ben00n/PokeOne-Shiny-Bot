@@ -15,3 +15,4 @@ How to use?
 When a shiny is found the bot stops and plays music.
 
 #You need to download AHK if you don't have it in order to run it as the scripts are NOT compiled.
+#This bot will never be detected by their lOOp anticheat system due to the fact their system is not able to detect 2 scripts at the same time.
